@@ -2,7 +2,7 @@
 
 ![](https://cssninja.io/storage/app/media/external/Envato/github/huro-preview.png)
 
-Huro is a premium Bulma admin and webapp UI Kit built by [Css Ninja Studio](https://cssninja.io). Fresh is licensed under the MIT license.
+Huro is a premium Bulma admin and webapp UI Kit built by [Css Ninja Studio](https://cssninja.io).
 
 Live Demo [here](https://huro.cssninja.io).
 
