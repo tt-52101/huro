@@ -6,6 +6,8 @@ Huro is a premium Bulma admin and webapp UI Kit built by [Css Ninja Studio](http
 
 Live Demo [here](https://huro.cssninja.io).
 
+You can purchase Huro [here](https://themeforest.net/item/huro-multipurpose-admin-and-webapp-ui-kit/28933249).
+
 ## Details
 
 Huro is built with the [Bulma css framework](https://bulma.io)
