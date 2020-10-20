@@ -8,6 +8,8 @@ Live Demo [here](https://huro.cssninja.io).
 
 You can purchase Huro [here](https://themeforest.net/item/huro-multipurpose-admin-and-webapp-ui-kit/28933249).
 
+You can read the Huro documentation here [here](https://docs.huro.cssninja.io).
+
 ## Details
 
 Huro is built with the [Bulma css framework](https://bulma.io)
