@@ -1,22 +1,22 @@
-# Huro
+# 👋 Huro
+> Huro is a premium Bulma dashboard UI Kit built by [cssninjaStudio](https://cssninja.io).
 
-![](https://cssninja.io/storage/app/media/external/Envato/github/huro-preview.png)
+![Screenshot](https://media.cssninja.io/products/huro/product.png "Huro")
 
-Huro is a premium Bulma admin and webapp UI Kit built by [Css Ninja Studio](https://cssninja.io).
+## ✌️ preview
 
-Live Demo [here](https://huro.cssninja.io).
+Check out the live demo by clicking [here](https://huro.cssninja.io). 
+You can purchase Dashkit [here](https://cssninja.io/envato/huro). 
+Huro is built with [Bulma](https://bulma.io).
 
-You can purchase Huro [here](https://themeforest.net/item/huro-multipurpose-admin-and-webapp-ui-kit/28933249).
+## 👍 Features
 
-You can read the Huro documentation here [here](https://docs.huro.cssninja.io).
+* Gulp 4 and nodejs 12.13.0 (minimum)
+* Bulma 0.9.1
+* Native Dark mode
+* 200+ Layouts
 
-## Details
-
-Huro is built with the [Bulma css framework](https://bulma.io)
-
-**Version 1.0.0**
-
-## Issues
+## 🍔 Issues
 
 If you've found an issue or a bug, you can report it in the issues section of this repository. Please try to follow these simple guidelines to report your issue:
 
@@ -26,12 +26,12 @@ If you've found an issue or a bug, you can report it in the issues section of th
 * steps to reproduce
 * Already tried fixes (if relevant)
 
-## More
+## 🎉 More
 
-You liked Huro? Check also our other premium Envato bulma themes [Css Ninja](https://cssninja.io/themes).
+You liked Huro? Check also our other premium Envato bulma themes [Css Ninja](https://themeforest.net/user/cssninjastudio/portfolio).
 
 Find more premium bulma templates on [Css Ninja](https://cssninja.io/category/all).
 
-## About Us
+## 🚀 About Us
 
 Css Ninja is a web design studio. We build handcrafted and polished templates that will give some hype to your startup or to your next project.
