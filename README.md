@@ -26,6 +26,10 @@ If you've found an issue or a bug, you can report it in the issues section of th
 * steps to reproduce
 * Already tried fixes (if relevant)
 
+## 🍔 Discussions (feature requests)
+
+If you want to contribute to the project development by requesting new features, you can use the discussions tab. You can upvote existing requests or create your own.
+
 ## 🎉 More
 
 You liked Huro? Check also our other premium Envato bulma themes [Css Ninja](https://themeforest.net/user/cssninjastudio/portfolio).
