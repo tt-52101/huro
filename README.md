@@ -6,7 +6,7 @@
 ## ✌️ preview
 
 Check out the live demo by clicking [here](https://huro.cssninja.io). 
-You can purchase Dashkit [here](https://cssninja.io/envato/huro). 
+You can purchase Huro [here](https://cssninja.io/envato/huro). 
 Huro is built with [Bulma](https://bulma.io).
 
 ## 👍 Features
@@ -26,7 +26,9 @@ If you've found an issue or a bug, you can report it in the issues section of th
 * steps to reproduce
 * Already tried fixes (if relevant)
 
-## 🍔 Discussions (feature requests)
+You can also report an issue on our [support portal](https://support.csssninja.io)
+
+## 🗨️ Discussions (feature requests)
 
 If you want to contribute to the project development by requesting new features, you can use the discussions tab. You can upvote existing requests or create your own.
 
